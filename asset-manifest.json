@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nascent-gym/static/css/main.988829fb.css",
+    "main.js": "/nascent-gym/static/js/main.9f08baff.js",
+    "static/media/hero_image.png": "/nascent-gym/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/t-image1.png": "/nascent-gym/static/media/t-image1.c16c2c261034cf78ee57.png",
+    "static/media/image2.png": "/nascent-gym/static/media/image2.82da8b2725df896d8a8e.png",
+    "static/media/image3.png": "/nascent-gym/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/image4.png": "/nascent-gym/static/media/image4.5a5478bda4f09961d318.png",
+    "static/media/image1.png": "/nascent-gym/static/media/image1.d17c6dadec2f52f516a4.png",
+    "static/media/t-image3.jpg": "/nascent-gym/static/media/t-image3.773b09d8a8fdcda5badc.jpg",
+    "static/media/t-image2.jpg": "/nascent-gym/static/media/t-image2.9fc24f3b6048861505ea.jpg",
+    "static/media/hero_image_back.png": "/nascent-gym/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "index.html": "/nascent-gym/index.html",
+    "main.988829fb.css.map": "/nascent-gym/static/css/main.988829fb.css.map",
+    "main.9f08baff.js.map": "/nascent-gym/static/js/main.9f08baff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.988829fb.css",
+    "static/js/main.9f08baff.js"
+  ]
+}
